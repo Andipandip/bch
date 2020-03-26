@@ -67,9 +67,9 @@ instance/
 docs/_build/
 
 # PyBuilder
-target/
+target/"Paypal:*,user:*,pasword:*,email:pass"
 
-# Jupyter Notebook
+# my colornot
 .ipynb_checkpoints
 
 # pyenv
@@ -90,15 +90,15 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# spyder project settings
+.spyderproject "on+of"
+.spyproject "cc+cvv+exp+cardholdername+phon+zipcode"
 
 # Rope project settings
 .ropeproject
 
 # mkdocs documentation
-/site
+/site:"US+DE+UK"
 
 # mypy
-.mypy_cache/
+.mypy_cache/view_and_clear_delethistory
